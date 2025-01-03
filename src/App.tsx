@@ -1,53 +1,57 @@
 import { useState, forwardRef } from "react";
 import classNames from "classnames";
-import rawWords from "../data/words.txt?raw"
+import cards from "../data/cards.json"
+
 import './App.css'
 
-interface Word { 
+interface Word  {
   word: string;
-  def: string;
+  definition: string;
 }
 
-const words: Word[] = rawWords.split('\n').map((word) => word.split("|")).map(word => ({
-  word: word[0],
-  def: word[2],
-}))
+interface Card {
+  level: "everyday" | "intermediate" | "challenging"
+  firstLetter: string
+  words: Word[]
+}
 
-// Select 3 consecutive words that begin with the same letter
-function pickWords(): Word[] {
-  const startingIndex = Math.floor(Math.random() * words.length - 3);
-  let index = startingIndex;
-  let decreasing = true;
+const everydayCards = cards.filter(card => card.level === "everyday");
+const intermediateCards = cards.filter(card => card.level === "intermediate");
+const challengingCards = cards.filter(card => card.level === "challenging");
 
-  while (!words[index].word.startsWith(words[index + 2].word[0])) {
-    if (decreasing) {
-      index -= 1;
-    } else {
-      index += 1;
-    }
+function pickCard(levels: string[]): Card {
+  const level = levels[Math.round(Math.random() * levels.length)]
+  console.log("Picked: ", level, " from ", levels);
 
-    if (index === 0) {
-      index = startingIndex;
-      decreasing = false;
-    }
-  }
+  if (level === "everyday") return (everydayCards as Card[])[Math.floor(Math.random() * everydayCards.length)];
+  if (level === "intermediate") return (intermediateCards as Card[])[Math.floor(Math.random() * intermediateCards.length)];
 
-  return words.slice(index, index + 3)
+  return (challengingCards as Card[])[Math.floor(Math.random() * challengingCards.length)];
 }
 
 function App() {
-  const [selectedWords, setSelectedWords] = useState(() => pickWords());
+  const [activeDifficulties, setActiveDifficulties] = useState(["everyday", "intermediate", "challenging"]);
+  const [selectedCard, setSelectedCard] = useState(() => pickCard(activeDifficulties));
 
   const onNewWords = () => {
-    setSelectedWords(pickWords());
+    setSelectedCard(pickCard(activeDifficulties));
+  }
+
+  const toggleDifficulty = (level: string) => {
+    if (activeDifficulties.includes(level)) {
+      setActiveDifficulties(activeDifficulties.filter(l => l !== level));
+    } else {
+      setActiveDifficulties([...activeDifficulties, level]);
+    }
   }
 
   return (
     <>
     <h1>Word Sweep!</h1>
-    <h2>First Letter = <span className="mono">{selectedWords[0].word[0].toUpperCase()}</span></h2>
+    <h2>First Letter = <span className="mono">{selectedCard.firstLetter}</span></h2>
+    <h2>Difficulty: {selectedCard.level}</h2>
     <ol>
-      {selectedWords.map((word, i) => (
+      {selectedCard.words.map((word, i) => (
         <li key={word.word}>
           <Word word={word} i={i} ref={el => {
             if (i === 0) {
@@ -58,7 +62,16 @@ function App() {
       ))}
     </ol>
 
-    <button className="bold center" onClick={onNewWords}>New Words</button>
+    
+
+    <button className="bold center" onClick={onNewWords}>New Card</button>
+
+    <h2>Active Difficulties</h2>
+    <div className="difficulties">
+      <button disabled={activeDifficulties.includes("everyday") && activeDifficulties.length === 1} className={classNames("everyday", {"active": activeDifficulties.includes("everyday")})} onClick={() => toggleDifficulty("everyday")}>Everyday</button>
+      <button disabled={activeDifficulties.includes("intermediate") && activeDifficulties.length === 1} className={classNames("intermediate", {"active": activeDifficulties.includes("intermediate")})} onClick={() => toggleDifficulty("intermediate")}>Intermediate</button>
+      <button disabled={activeDifficulties.includes("challenging") && activeDifficulties.length === 1} className={classNames("challenging", {"active": activeDifficulties.includes("challenging")})} onClick={() => toggleDifficulty("challenging")}>Challenging</button>
+    </div>
     </>
   )
 }
@@ -77,7 +90,7 @@ const Word = forwardRef<HTMLInputElement, WordProps>((props: {word: Word, i: num
 
   return (
     <>
-      <div className="word"><strong>Word {i+1}</strong>: {word.def}</div>
+      <div className="word"><strong>Word {i+1}</strong>: {word.definition}</div>
       <div className="flex">
         <input ref={ref} className={cls} value={value} onChange={e => setValue(e.target.value)}></input>  
         <button className="bold small" onClick={() => {setValue(word.word)}}>Reveal</button>

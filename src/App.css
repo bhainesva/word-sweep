@@ -58,3 +58,25 @@ input.correct {
 .word { 
   margin-bottom: 10px;
 }
+
+.everyday.active {
+  background-color: #3f3770;
+}
+
+.intermediate.active {
+  background-color: #106375;
+}
+
+.challenging.active {
+  background-color: #c12a33;
+}
+
+.difficulties {
+  width: 100%;
+  display: flex;
+  gap: 4px;
+}
+
+.difficulties button {
+  flex: 1;
+}
