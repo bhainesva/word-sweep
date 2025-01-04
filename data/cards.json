@@ -829,7 +829,7 @@
   },
   {
     "level": "challenging",
-    "firstLetter": "5",
+    "firstLetter": "S",
     "words": [
       {
         "word": "semantics",
@@ -1567,7 +1567,7 @@
   },
   {
     "level": "challenging",
-    "firstLetter": "5",
+    "firstLetter": "S",
     "words": [
       {
         "word": "sloe",
@@ -2575,7 +2575,7 @@
   },
   {
     "level": "challenging",
-    "firstLetter": "5",
+    "firstLetter": "S",
     "words": [
       {
         "word": "shutterbug",
@@ -2809,7 +2809,7 @@
   },
   {
     "level": "challenging",
-    "firstLetter": "|",
+    "firstLetter": "I",
     "words": [
       {
         "word": "impresario",
@@ -3348,7 +3348,7 @@
   },
   {
     "level": "challenging",
-    "firstLetter": "|",
+    "firstLetter": "I",
     "words": [
       {
         "word": "inclusive",
@@ -3582,7 +3582,7 @@
   },
   {
     "level": "challenging",
-    "firstLetter": "|",
+    "firstLetter": "I",
     "words": [
       {
         "word": "incredulous",
@@ -3690,7 +3690,7 @@
   },
   {
     "level": "challenging",
-    "firstLetter": "5",
+    "firstLetter": "S",
     "words": [
       {
         "word": "synchronous",
@@ -4068,7 +4068,7 @@
   },
   {
     "level": "challenging",
-    "firstLetter": "5",
+    "firstLetter": "S",
     "words": [
       {
         "word": "structure",
@@ -4104,7 +4104,7 @@
   },
   {
     "level": "challenging",
-    "firstLetter": "|",
+    "firstLetter": "I",
     "words": [
       {
         "word": "inconceivable",
@@ -4691,7 +4691,7 @@
         "definition": "something left to a person by or as if by will"
       },
       {
-        "word": "lega/",
+        "word": "legal",
         "definition": "based on law"
       }
     ]
@@ -5443,7 +5443,7 @@
   },
   {
     "level": "intermediate",
-    "firstLetter": "|",
+    "firstLetter": "I",
     "words": [
       {
         "word": "infamy",
@@ -5479,7 +5479,7 @@
   },
   {
     "level": "intermediate",
-    "firstLetter": "5",
+    "firstLetter": "S",
     "words": [
       {
         "word": "sedate",
@@ -5785,7 +5785,7 @@
   },
   {
     "level": "intermediate",
-    "firstLetter": "|",
+    "firstLetter": "I",
     "words": [
       {
         "word": "introspection",
@@ -7158,7 +7158,7 @@
   },
   {
     "level": "intermediate",
-    "firstLetter": "|",
+    "firstLetter": "I",
     "words": [
       {
         "word": "improbable",
@@ -7353,7 +7353,7 @@
     "firstLetter": "S",
     "words": [
       {
-        "word": "stal/",
+        "word": "stall",
         "definition": "to distract attention ormake excuses to gain time"
       },
       {
@@ -7674,7 +7674,7 @@
   },
   {
     "level": "intermediate",
-    "firstLetter": "|",
+    "firstLetter": "I",
     "words": [
       {
         "word": "ineligible",
@@ -8105,7 +8105,7 @@
   },
   {
     "level": "intermediate",
-    "firstLetter": "|",
+    "firstLetter": "I",
     "words": [
       {
         "word": "injury",
@@ -8249,7 +8249,7 @@
   },
   {
     "level": "intermediate",
-    "firstLetter": "5",
+    "firstLetter": "S",
     "words": [
       {
         "word": "soar",
@@ -8267,7 +8267,7 @@
   },
   {
     "level": "intermediate",
-    "firstLetter": "|",
+    "firstLetter": "I",
     "words": [
       {
         "word": "initial",
@@ -8996,7 +8996,7 @@
   },
   {
     "level": "intermediate",
-    "firstLetter": "|",
+    "firstLetter": "I",
     "words": [
       {
         "word": "infidelity",
@@ -9014,7 +9014,7 @@
   },
   {
     "level": "intermediate",
-    "firstLetter": "5",
+    "firstLetter": "S",
     "words": [
       {
         "word": "squeamish",
@@ -9543,7 +9543,7 @@
         "definition": "to make hard to see or read by smearing"
       },
       {
-        "word": "b/urt",
+        "word": "blurt",
         "definition": "to say or tell suddenly and without thinking"
       },
       {
@@ -10022,7 +10022,7 @@
   },
   {
     "level": "everyday",
-    "firstLetter": "5",
+    "firstLetter": "S",
     "words": [
       {
         "word": "snooze",
@@ -10674,7 +10674,7 @@
     "words": [
       {
         "word": "naive",
-        "definition": "showing lack otfexperience or knowledge"
+        "definition": "showing lack off experience or knowledge"
       },
       {
         "word": "naked",
@@ -10682,13 +10682,13 @@
       },
       {
         "word": "name",
-        "definition": "a word or combinationof words by which a person orthing is known"
+        "definition": "a word or combination of words by which a person or thing is known"
       }
     ]
   },
   {
     "level": "everyday",
-    "firstLetter": "|",
+    "firstLetter": "I",
     "words": [
       {
         "word": "icicle",
@@ -10710,7 +10710,7 @@
     "words": [
       {
         "word": "rust",
-        "definition": "a reddish coatingformed on metal when it is exposed especially to moist air"
+        "definition": "a reddish coating formed on metal when it is exposed especially to moist air"
       },
       {
         "word": "rustic",
@@ -10718,7 +10718,7 @@
       },
       {
         "word": "rustle",
-        "definition": "a quick series of smallsounds"
+        "definition": "a quick series of small sounds"
       }
     ]
   },
@@ -10728,7 +10728,7 @@
     "words": [
       {
         "word": "oasis",
-        "definition": "a fertile or green spotin a desert"
+        "definition": "a fertile or green spot in a desert"
       },
       {
         "word": "oat",
@@ -10763,8 +10763,8 @@
     "firstLetter": "G",
     "words": [
       {
-        "word": "(chimpanzee",
-        "definition": "an Afr lives mostly in smaller than t"
+        "word": "chimpanzee",
+        "definition": "an African ape that lives mostly in trees and is smaller than the related gorilla"
       },
       {
         "word": "chin",
@@ -10772,7 +10772,7 @@
       },
       {
         "word": "china",
-        "definition": "homefor use In one's"
+        "definition": "pottery such as dishes for use in one's home"
       }
     ]
   },
@@ -10804,11 +10804,11 @@
       },
       {
         "word": "centipede",
-        "definition": "a small animal thathas a long body and many legsand is related to the insects"
+        "definition": "a small animal that has a long body and many legs and is related to the insects"
       },
       {
         "word": "central",
-        "definition": "placed at, In, or nearthe center"
+        "definition": "placed at, in, or near the center"
       }
     ]
   },
@@ -10818,15 +10818,15 @@
     "words": [
       {
         "word": "baton",
-        "definition": "a stick with which aleader directs an orchestra orband"
+        "definition": "a stick with which a leader directs an orchestra or band"
       },
       {
-        "word": "Word 3: a thin mixture madechiefly of flour and a liquidbeaten together and used Inmaking cakes and biscuits",
-        "definition": "a part of an armyconsisting of two or morecompanies (battalion)"
+        "word": "battalion",
+        "definition": "a part of an army consisting of two or more companies"
       },
       {
         "word": "batter",
-        "definition": "a thin mixture madechiefly of flour and a liquidbeaten together and used Inmaking cakes and biscuits"
+        "definition": "a thin mixture made chiefly of flour and a liquid beaten together and used in making cakes and biscuits"
       }
     ]
   },
@@ -10836,14 +10836,15 @@
     "words": [
       {
         "word": "noodle",
-        "definition": "a food like macaronimade with egg and shapedinto flat strips"
+        "definition": "a food like macaroni made with egg and shaped into flat strips"
       },
       {
         "word": "nook",
         "definition": "an inner corner"
       },
       {
-        "word": "FIRST LETTER = N"
+        "word": "noon",
+        "definition": "the middle of the day"
       }
     ]
   },
@@ -10853,11 +10854,11 @@
     "words": [
       {
         "word": "frost",
-        "definition": "temperature coldenough to cause freezing"
+        "definition": "temperature cold enough to cause freezing"
       },
       {
         "word": "frostbite",
-        "definition": "slight freezing of apart of the body or the effectof this"
+        "definition": "slight freezing of a part of the body or the effect of this"
       },
       {
         "word": "frosting",
@@ -10871,15 +10872,15 @@
     "words": [
       {
         "word": "robin",
-        "definition": "a large NorthAmerican bird with a grayishback and dull reddish breast"
+        "definition": "a large North American bird with a grayish back and dull reddish breast"
       },
       {
         "word": "robot",
-        "definition": "a machine that looksand acts like a human being"
+        "definition": "a machine that looks and acts like a human being"
       },
       {
         "word": "robust",
-        "definition": "strong and vigorouslyhealthy"
+        "definition": "strong and vigorously healthy"
       }
     ]
   },
@@ -10889,11 +10890,11 @@
     "words": [
       {
         "word": "broth",
-        "definition": "the liquid in which ameat, fish, or vegetable hasbeen boiled"
+        "definition": "the liquid in which a meat, fish, or vegetable has been boiled"
       },
       {
         "word": "brother",
-        "definition": "a boy or man relatedto another person by havingthe same parents"
+        "definition": "a boy or man related to another person by having the same parents"
       },
       {
         "word": "brotherhood",
@@ -10979,7 +10980,7 @@
     "words": [
       {
         "word": "violent",
-        "definition": "showing very strongforce"
+        "definition": "showing very strong force"
       },
       {
         "word": "violet",
@@ -10987,7 +10988,7 @@
       },
       {
         "word": "violin",
-        "definition": "a stringed musicalinstrument with four stringsthat is usually held against theshoulder under the chin andplayed with a bow"
+        "definition": "a stringed musical instrument with four strings that is usually held against the shoulder under the chin and played with a bow"
       }
     ]
   },
@@ -11005,7 +11006,7 @@
       },
       {
         "word": "pasta",
-        "definition": "a dough of tlour, eggs,and water made in different shapes and dried Or used fresh"
+        "definition": "a dough of flour, eggs, and water made in different shapes and dried or used fresh"
       }
     ]
   },
@@ -11014,14 +11015,16 @@
     "firstLetter": "B",
     "words": [
       {
-        "word": "FIRST LETTER = B"
+        "word": "bulldozer",
+        "definition": "a motor vehicle with beltlike tracks that has a broad blade for pushing"
       },
       {
-        "word": "FIRST LETTER = B"
+        "word": "bullet",
+        "definition": "a shaped piece of metal made to be shot from a firearm"
       },
       {
         "word": "bulletin",
-        "definition": "a short public noticeusually coming from aninformed or official source"
+        "definition": "a short public notice usually coming from an informed or official source"
       }
     ]
   },
@@ -11031,7 +11034,7 @@
     "words": [
       {
         "word": "medieval",
-        "definition": "of or relating to theMiddle Ages"
+        "definition": "of or relating to the Middle Ages"
       },
       {
         "word": "mediocre",
@@ -11039,7 +11042,7 @@
       },
       {
         "word": "meditate",
-        "definition": "to spend time in quietthinking"
+        "definition": "to spend time in quiet thinking"
       }
     ]
   },
@@ -11053,17 +11056,17 @@
       },
       {
         "word": "downstairs",
-        "definition": "situated on a lower floor or on the main or Tirst floor"
+        "definition": "situated on a lower floor or on the main or first floor"
       },
       {
         "word": "downstream",
-        "definition": "in the direction a stream is Tlowing"
+        "definition": "in the direction a stream is flowing"
       }
     ]
   },
   {
     "level": "everyday",
-    "firstLetter": "5",
+    "firstLetter": "S",
     "words": [
       {
         "word": "snack",
@@ -11071,11 +11074,11 @@
       },
       {
         "word": "snag",
-        "definition": "an unexpecteddifficulty"
+        "definition": "an unexpected difficulty"
       },
       {
         "word": "snail",
-        "definition": "a small slow-movingmollusk with a spiral shell intowhich it can draw itself forsafety"
+        "definition": "a small slow-moving mollusk with a spiral shell into which it can draw itself for safety"
       }
     ]
   },
@@ -11085,7 +11088,7 @@
     "words": [
       {
         "word": "ace",
-        "definition": "a playing card with one figure in Its center"
+        "definition": "a playing card with one figure in its center"
       },
       {
         "word": "ache",
@@ -11099,19 +11102,19 @@
   },
   {
     "level": "everyday",
-    "firstLetter": "5",
+    "firstLetter": "S",
     "words": [
       {
         "word": "spin",
-        "definition": "to make yarn orthread from fibers"
+        "definition": "to make yarn or thread from fibers"
       },
       {
         "word": "spinach",
-        "definition": "a leafy plant that Isgrown for use as food"
+        "definition": "a leafy plant that is grown for use as food"
       },
       {
         "word": "spinal",
-        "definition": "of, relating to, orlocated near the backbone orthe spinal cord"
+        "definition": "of, relating to, or located near the backbone or the spinal cord"
       }
     ]
   },
@@ -11121,11 +11124,11 @@
     "words": [
       {
         "word": "escalator",
-        "definition": "a moving stairwayarranged like an endless belt"
+        "definition": "a moving stairway arranged like an endless belt"
       },
       {
         "word": "escapade",
-        "definition": "a daring or recklessadventure"
+        "definition": "a daring or reckless adventure"
       },
       {
         "word": "escape",
@@ -11138,16 +11141,16 @@
     "firstLetter": "B",
     "words": [
       {
-        "word": "buttermi/k",
-        "definition": "the liquid left afterchurning butter from milk orcream"
+        "word": "buttermilk",
+        "definition": "the liquid left after churning butter from milk or cream"
       },
       {
         "word": "butternut",
-        "definition": "an eastern NorthAmerican tree that has sweetegg-shaped nuts and is relatedto the walnuts"
+        "definition": "an eastern North American tree that has sweet egg-shaped nuts and is related to the walnuts"
       },
       {
         "word": "butterscotch",
-        "definition": "a candy made fromsugar, corn syrup, and water"
+        "definition": "a candy made from sugar, corn syrup, and water"
       }
     ]
   },
@@ -11161,7 +11164,7 @@
       },
       {
         "word": "bat",
-        "definition": "an implement used for hitting the ball in variousgames"
+        "definition": "an implement used for hitting the ball in various games"
       },
       {
         "word": "batch",
@@ -11175,7 +11178,7 @@
     "words": [
       {
         "word": "rook",
-        "definition": "one of the pieces Inthe game of chess"
+        "definition": "one of the pieces in the game of chess"
       },
       {
         "word": "rookie",
@@ -11183,7 +11186,7 @@
       },
       {
         "word": "room",
-        "definition": "a divided part of theinside of a building"
+        "definition": "a divided part of the inside of a building"
       }
     ]
   },
@@ -11193,14 +11196,15 @@
     "words": [
       {
         "word": "biscuit",
-        "definition": "a small cake of raised dough baked in an ove!"
+        "definition": "a small cake of raised dough baked in an oven"
       },
       {
         "word": "bisect",
-        "definition": "tO divide into two usually equal parts"
+        "definition": "to divide into two usually equal parts"
       },
       {
-        "definition": "a piece ‘n the game of chess _ (bishop)"
+        "word": "bishop",
+        "definition": "a piece in the game of chess"
       }
     ]
   },
@@ -11214,11 +11218,11 @@
       },
       {
         "word": "elevation",
-        "definition": "height especiallyabove sea level"
+        "definition": "height especially above sea level"
       },
       {
         "word": "elevator",
-        "definition": "a floor or little roomthat can be raised or loweredfor carrying persons or goodsfrom one level to another"
+        "definition": "a floor or little room that can be raised or lowered for carrying persons or goods from one level to another"
       }
     ]
   },
@@ -11228,14 +11232,15 @@
     "words": [
       {
         "word": "oeach",
-        "definition": "a fruit that is relatedto the plum and has a sweetjuicy pulp, hairy skin, and alarge rough stone"
+        "definition": "a fruit that is related to the plum and has a sweet juicy pulp, hairy skin, and a large rough stone"
       },
       {
-        "word": "Word 3: the pointed top of ahill or mountain (peak)",
-        "definition": "the male of a verylarge Asian pheasant with avery long brightly colored tailthat can be spread or raised atwill (9eacock)"
+        "word": "peacock",
+        "definition": "the male of a very large Asian pheasant with a very long brightly colored tail that can be spread or raised at will"
       },
       {
-        "definition": "the pointed top of ahill or mountain (peak)"
+        "word": "peak",        
+        "definition": "the pointed top of ahill or mountain"
       }
     ]
   },
@@ -11245,11 +11250,11 @@
     "words": [
       {
         "word": "pounce",
-        "definition": "to swoop on and seizesomething with or as if withclaws"
+        "definition": "to swoop on and seize something with or as if with claws"
       },
       {
         "word": "pound",
-        "definition": "a unit of money usedin several countries as theUnited Kingdom and Egypt"
+        "definition": "a unit of money used in several countries as the United Kingdom and Egypt"
       },
       {
         "word": "pour",
@@ -11270,7 +11275,8 @@
         "definition": "tornado"
       },
       {
-        "definition": "a short sharp contracting of muscle fibers (twitch)"
+        "word": "twitch",
+        "definition": "a short sharp contracting of muscle fibers"
       }
     ]
   },
@@ -11283,11 +11289,12 @@
         "definition": "pancake"
       },
       {
-        "word": "FIRST LETTER = F"
+        "word": "flare",
+        "definition": "a blaze of light used to signal, light up something, or attract attention"
       },
       {
         "word": "flash",
-        "definition": "a sudden burst of or asif of light"
+        "definition": "a sudden burst of or as if of light"
       }
     ]
   },
@@ -11297,15 +11304,15 @@
     "words": [
       {
         "word": "brass",
-        "definition": "an alloy made bycombining copper and zinc"
+        "definition": "an alloy made by combining copper and zinc"
       },
       {
         "word": "brat",
-        "definition": "a naughty annoyingchild"
+        "definition": "a naughty annoying child"
       },
       {
         "word": "brave",
-        "definition": "feeling or showing no| fear"
+        "definition": "feeling or showing no fear"
       }
     ]
   },
@@ -11315,15 +11322,15 @@
     "words": [
       {
         "word": "orb",
-        "definition": "something in theshape of a ball"
+        "definition": "something in the shape of a ball"
       },
       {
         "word": "orbit",
-        "definition": "the path taken by onebody circling around anotherbody"
+        "definition": "the path taken by one body circling around another body"
       },
       {
         "word": "orchard",
-        "definition": "a place where fruittrees are grown"
+        "definition": "a place where fruit trees are grown"
       }
     ]
   },
@@ -11333,15 +11340,15 @@
     "words": [
       {
         "word": "peanut",
-        "definition": "a plant related to thepeas that has yellow flowers andis grown for Its undergroundpods of oily nutlike edible seeds"
+        "definition": "a plant related to the peas that has yellow flowers and is grown for its underground pods of oily nutlike edible seeds"
       },
       {
-        "word": "Word 3: a smooth body with arich luster that is formed withinthe shell of some mollusks",
-        "definition": "the fleshy fruit thatgrows on a tree related to theapple and Is commonly larger atthe end opposite the stem (pear)"
+        "word": "pear",
+        "definition": "the fleshy fruit that grows on a tree related to the apple and is commonly larger at the end opposite the stem"
       },
       {
-        "word": "pear!",
-        "definition": "a smooth body with arich luster that is formed withinthe shell of some mollusks"
+        "word": "pearl",
+        "definition": "a smooth body with a rich luster that is formed within the shell of some mollusks"
       }
     ]
   },
@@ -11351,15 +11358,15 @@
     "words": [
       {
         "word": "braid",
-        "definition": "a length of cord, ribbon,or hair formed of three or morestrands woven together"
+        "definition": "a length of cord, ribbon, or hair formed of three or more strands woven together"
       },
       {
         "word": "braille",
-        "definition": "a system of printing forthe blind in which the lettersare represented by raised dots"
+        "definition": "a system of printing for the blind in which the letters are represented by raised dots"
       },
       {
         "word": "brain",
-        "definition": "someone who Is verysmart"
+        "definition": "someone who is very smart"
       }
     ]
   },
@@ -11373,11 +11380,11 @@
       },
       {
         "word": "art",
-        "definition": "works as pictures,poems, or songs made byartists"
+        "definition": "works as pictures, poems, or songs made by artists"
       },
       {
         "word": "artery",
-        "definition": "one of the branchingtubes that carry blood fromthe heart to all parts of thebody"
+        "definition": "one of the branching tubes that carry blood from the heart to all parts of the body"
       }
     ]
   },
@@ -11387,14 +11394,15 @@
     "words": [
       {
         "word": "karaoke",
-        "definition": "a device that plays music to which the user singsalong"
+        "definition": "a device that plays music to which the user sings along"
       },
       {
         "word": "karat",
-        "definition": "a unit of fineness forgold"
+        "definition": "a unit of fineness for gold"
       },
       {
-        "definition": "an Oriental art of selt-defense in which an attacker is lefeated by kicks and punches grate)"
+        "word": "karate",
+        "definition": "an Oriental art of selt-defense in which an attacker is defeated by kicks and punches"
       }
     ]
   },
@@ -11418,11 +11426,11 @@
   },
   {
     "level": "everyday",
-    "firstLetter": "5",
+    "firstLetter": "S",
     "words": [
       {
         "word": "seasick",
-        "definition": "sick at the stomachfrom the pitching or rolling of a ship"
+        "definition": "sick at the stomach from the pitching or rolling of a ship"
       },
       {
         "word": "seaside",
@@ -11430,7 +11438,7 @@
       },
       {
         "word": "season",
-        "definition": "one of the fourquarters into which a yearis commonly divided"
+        "definition": "one of the four quarters into which a year is commonly divided"
       }
     ]
   },
@@ -11462,11 +11470,11 @@
       },
       {
         "word": "cauliflower",
-        "definition": "a vegetable closelyrelated to the cabbage that isgrown for its white head of undeveloped flowers"
+        "definition": "a vegetable closely related to the cabbage that is grown for its white head of undeveloped flowers"
       },
       {
         "word": "caulk",
-        "definition": "to fill up a crack, seam,Or joint so as to make it water-tight"
+        "definition": "to fill up a crack, seam, or joint so as to make it water-tight"
       }
     ]
   },
@@ -11476,11 +11484,11 @@
     "words": [
       {
         "word": "autobiography",
-        "definition": "the biography of aperson written by that person"
+        "definition": "the biography of a person written by that person"
       },
       {
         "word": "autograph",
-        "definition": "a person's signaturewritten by hand"
+        "definition": "a person's signature written by hand"
       },
       {
         "word": "automate",
@@ -11512,11 +11520,11 @@
     "words": [
       {
         "word": "cluck",
-        "definition": "the call of a henespecially to her chicks"
+        "definition": "the call of a hen especially to her chicks"
       },
       {
         "word": "clue",
-        "definition": "something that helps aperson to find something or tosolve a mystery"
+        "definition": "something that helps a person to find something or to solve a mystery"
       },
       {
         "word": "clump",
@@ -11526,10 +11534,11 @@
   },
   {
     "level": "everyday",
-    "firstLetter": "W Word 1: the amount that something weighs",
+    "firstLetter": "W",
     "words": [
       {
-        "word": "FIRST LETTER = W Word 1: the amount that something weighs"
+        "word": "weight",
+        "definition": "the amount that something weighs"
       },
       {
         "word": "weighty",
@@ -11551,10 +11560,10 @@
       },
       {
         "word": "celery",
-        "definition": "a plant related to the carrots whose crisp leafstalks are used for food"
+        "definition": "a plant related to the carrots whose crisp leaf stalks are used for food"
       },
       {
-        "word": "ce/estia/",
+        "word": "celestial",
         "definition": "of or relating to the Sky"
       }
     ]
@@ -11572,20 +11581,22 @@
         "definition": "very large, heavy, and solid"
       },
       {
-        "definition": "a long pole that rises| from the bottom of a ship and| supports the sails and rigging| (mast)"
+        "word": "mast",
+        "definition": "a long pole that rises from the bottom of a ship and supports the sails and rigging"
       }
     ]
   },
   {
     "level": "everyday",
-    "firstLetter": "M Word 1: a tooth with a broad surface used for grinding",
+    "firstLetter": "M",
     "words": [
       {
-        "word": "FIRST LETTER = M Word 1: a tooth with a broad surface used for grinding"
+        "word": "molar",
+        "definition": "a tooth with a broad surface used for grinding"
       },
       {
-        "word": "Word 3: a hollow form in which something is shaped",
-        "definition": "a thick brown syrupthat drains from sugar as it Is being made (molasses)"
+        "word": "molasses",
+        "definition": "a thick brown syrup that drains from sugar as it is being made"
       },
       {
         "word": "mold",
@@ -11595,19 +11606,19 @@
   },
   {
     "level": "everyday",
-    "firstLetter": "5",
+    "firstLetter": "S",
     "words": [
       {
         "word": "scallop",
-        "definition": "an edible shellfish thatis a mollusk with a ribbed shellin two parts"
+        "definition": "an edible shellfish that is a mollusk with a ribbed shell in two parts"
       },
       {
         "word": "scalp",
-        "definition": "the part of the skinand flesh of the head usuallycovered with hair"
+        "definition": "the part of the skin and flesh of the head usually covered with hair"
       },
       {
         "word": "scaly",
-        "definition": "covered with or likescales"
+        "definition": "covered with or like scales"
       }
     ]
   },
@@ -11620,10 +11631,12 @@
         "definition": "an expression of regret as for a mistake or a rude remark"
       },
       {
-        "word": "FIRST LETTER =A"
+        "word": "apostle",
+        "definition": "one of the twelve close followers of Jesus sent out to teach the gospel"
       },
       {
-        "word": "FIRST LETTER =A"
+        "word": "apostrophe",
+        "definition": "a mark used to show that letters or figures are missing, or to show the possessive case"
       }
     ]
   },
@@ -11632,32 +11645,34 @@
     "firstLetter": "D",
     "words": [
       {
-        "word": "dol!",
-        "definition": "a small figure of ahuman being used especially asa child's plaything"
+        "word": "doll",
+        "definition": "a small figure of a human being used especially as a child's plaything"
       },
       {
         "word": "dollar",
-        "definition": "any of various coins orpieces of paper money as of the United States or Canadaequal to 100 cents"
+        "definition": "any of various coins or pieces of paper money as of the United States or Canada equal to 100 cents"
       },
       {
-        "definition": "a platform on a rolleror on wheels for moving heavythings (dolly)"
+        "word": "dolly",
+        "definition": "a platform on a roller or on wheels for moving heavy things"
       }
     ]
   },
   {
     "level": "everyday",
-    "firstLetter": "C Word 1: money in the form of coins or bills",
+    "firstLetter": "C",
     "words": [
       {
-        "word": "FIRST LETTER = C Word 1: money in the form of coins or bills"
+        "word": "cash",
+        "definition": "money in the form of coins or bills"
       },
       {
         "word": "cashew",
-        "definition": "an edible nut that Isshaped like a kidney and comes from a tropical American tree"
+        "definition": "an edible nut that is shaped like a kidney and comes from a tropical American tree"
       },
       {
         "word": "cashier",
-        "definition": "a person who Is responsible for money"
+        "definition": "a person who is responsible for money"
       }
     ]
   },
@@ -11721,15 +11736,15 @@
     "words": [
       {
         "word": "sing",
-        "definition": "to express in musicaltones"
+        "definition": "to express in musical tones"
       },
       {
         "word": "singe",
-        "definition": "to burn lightly or onthe surface; scorch"
+        "definition": "to burn lightly or on the surface; scorch"
       },
       {
         "word": "single",
-        "definition": "a hit in baseball thatenables the batter to reachfirst base"
+        "definition": "a hit in baseball that enables the batter to reach first base"
       }
     ]
   },
@@ -11742,11 +11757,11 @@
         "definition": "neither hot nor cold"
       },
       {
-        "word": "/u/l",
+        "word": "lull",
         "definition": "a period of calm"
       },
       {
-        "word": "/ullaby",
+        "word": "lullaby",
         "definition": "a song for helping babies to sleep"
       }
     ]
@@ -11761,11 +11776,11 @@
       },
       {
         "word": "claw",
-        "definition": "a sharp usually thinand curved nail on the fingeror toe of an animal"
+        "definition": "a sharp usually thin and curved nail on the finger or toe of an animal"
       },
       {
         "word": "clay",
-        "definition": "an earthy materialthat Is sticky and easily moldedwhen wet and hard whenbaked"
+        "definition": "an earthy material that is sticky and easily molded when wet and hard when baked"
       }
     ]
   },
@@ -11775,15 +11790,15 @@
     "words": [
       {
         "word": "lease",
-        "definition": "an agreement bywhich a person exchangesproperty for a period of timefor rent or services"
+        "definition": "an agreement by which a person exchanges property for a period of time for rent or services"
       },
       {
         "word": "leash",
-        "definition": "a line for leading orholding an animal"
+        "definition": "a line for leading or holding an animal"
       },
       {
         "word": "least",
-        "definition": "smallest in size ordegree"
+        "definition": "smallest in size or degree"
       }
     ]
   },
@@ -11793,15 +11808,15 @@
     "words": [
       {
         "word": "banister",
-        "definition": "the handrail of astaircase"
+        "definition": "the handrail of a staircase"
       },
       {
-        "word": "(banjo) ay",
-        "definition": "a musical instrumentwith four or five strings and a asfretted neck eter,"
+        "word": "banjo",
+        "definition": "a musical instrument with four or five strings and a fretted neck,"
       },
       {
-        "word": "(bank) ren,",
-        "definition": "a place of business eaethat lends, exchanges, takes aiecare of, or issues money \"7"
+        "word": "bank",
+        "definition": "a place of business that lends, exchanges, takes care of, or issues money"
       }
     ]
   },
@@ -11811,7 +11826,7 @@
     "words": [
       {
         "word": "aim",
-        "definition": "to point a weapontoward an object"
+        "definition": "to point a weapon toward an object"
       },
       {
         "word": "aimless",
@@ -11819,7 +11834,7 @@
       },
       {
         "word": "air",
-        "definition": "the invisible mixtureof odorless tasteless gases thatsurrounds the earth"
+        "definition": "the invisible mixture of odorless tasteless gases that surrounds the earth"
       }
     ]
   },
@@ -11847,14 +11862,15 @@
     "words": [
       {
         "word": "knowledge",
-        "definition": "understanding and skillgained by experience"
+        "definition": "understanding and skill gained by experience"
       },
       {
         "word": "knuckle",
-        "definition": "the rounded lumpformed by the ends of twobones, such as of a finger, wherethey come together in a joint"
+        "definition": "the rounded lump formed by the ends of two bones, such as of a finger, where they come together in a joint"
       },
       {
-        "definition": "a tailless Australiananimal with thick fur and bighairy ears, sharp claws forclimbing, and a pouch (koala)"
+        "word": "koala",
+        "definition": "a tailless Australian animal with thick fur and big hairy ears, sharp claws for climbing, and a pouch"
       }
     ]
   },
@@ -11864,7 +11880,7 @@
     "words": [
       {
         "word": "greyhound",
-        "definition": "a tall swift dog with asmooth coat and good eyesight"
+        "definition": "a tall swift dog with a smooth coat and good eyesight"
       },
       {
         "word": "grid",
@@ -11872,7 +11888,7 @@
       },
       {
         "word": "griddle",
-        "definition": "a flat surface or panon which food is cooked"
+        "definition": "a flat surface or pan on which food is cooked"
       }
     ]
   },
@@ -11881,13 +11897,16 @@
     "firstLetter": "P",
     "words": [
       {
-        "definition": "to make the low murmuring sound of a contented cat or a similar sound| (purr): Word 2: a bag or pouch for=] money= (purse)| Word 3: to follow after in order| to catch or destroy| (pursue)"
+        "word": "purr",
+        "definition": "to make the low murmuring sound of a contented cat or a similar sound"
       },
       {
-        "word": "FIRST LETTER = P"
+        "word": "purse",
+        "definition": "a bag or pouch for money"
       },
       {
-        "word": "FIRST LETTER = P"
+        "word": "pursue",
+        "definition": "to follow after in order to catch or destroy"
       }
     ]
   },
@@ -11911,19 +11930,19 @@
   },
   {
     "level": "everyday",
-    "firstLetter": "Om",
+    "firstLetter": "O",
     "words": [
       {
         "word": "obey",
-        "definition": "to follow thecommands or guidance of"
+        "definition": "to follow the commands or guidance of"
       },
       {
         "word": "obituary",
-        "definition": "a notice of a person'sdeath as in a newspaper"
+        "definition": "a notice of a person's death as in a newspaper"
       },
       {
         "word": "object",
-        "definition": "to oppose somethingfirmly and usually with words"
+        "definition": "to oppose something firmly and usually with words"
       }
     ]
   },
@@ -11933,15 +11952,15 @@
     "words": [
       {
         "word": "marsh",
-        "definition": "an area of soft wetland usually overgrown withgrasses and related plants"
+        "definition": "an area of soft wetland usually overgrown with grasses and related plants"
       },
       {
         "word": "marshal",
-        "definition": "a federal officialhaving duties similar to thoseof a sheriff"
+        "definition": "a federal official having duties similar to those of a sheriff"
       },
       {
         "word": "marshmallow",
-        "definition": "a soft spongy sweetmade from corn syrup, sugar,and gelatin"
+        "definition": "a soft spongy sweet made from corn syrup, sugar,and gelatin"
       }
     ]
   },
@@ -11951,14 +11970,15 @@
     "words": [
       {
         "word": "pupil",
-        "definition": "the opening In the iris through which light enters the eye"
+        "definition": "the opening in the iris through which light enters the eye"
       },
       {
         "word": "puppet",
         "definition": "a doll moved by hand or by strings or wires"
       },
       {
-        "word": "FIRST LETTER =P"
+        "word": "puppy",
+        "definition": "a young dog"
       }
     ]
   },
@@ -11968,11 +11988,11 @@
     "words": [
       {
         "word": "definition",
-        "definition": "a statement of themeaning of a word or a wordgroup"
+        "definition": "a statement of the meaning of a word or a word group"
       },
       {
         "word": "deflate",
-        "definition": "to let the air or gasout of something that hasbeen blown up"
+        "definition": "to let the air or gas out of something that has been blown up"
       },
       {
         "word": "deflect",
@@ -12004,15 +12024,15 @@
     "words": [
       {
         "word": "musician",
-        "definition": "a person who writes,sings, or plays music with skilland especially as a profession"
+        "definition": "a person who writes, sings, or plays music with skill and especially as a profession"
       },
       {
         "word": "musk",
-        "definition": "a strong-smellingmaterial from a gland of anAsian deer used in perfumes"
+        "definition": "a strong-smelling material from a gland of an Asian deer used in perfumes"
       },
       {
         "word": "musket",
-        "definition": "a firearm that isloaded through the muzzleand that was once used byinfantry soldiers"
+        "definition": "a firearm that is loaded through the muzzle and that was once used by infantry soldiers"
       }
     ]
   },
@@ -12044,11 +12064,11 @@
       },
       {
         "word": "wad",
-        "definition": "a soft mass of cotton,cloth, or fibers used as a olug or pad"
+        "definition": "a soft mass of cotton, cloth, or fibers used as a plug or pad"
       },
       {
         "word": "waddle",
-        "definition": "tO walk with shortsteps sway!ng like a duck"
+        "definition": "to walk with short steps swaying like a duck"
       }
     ]
   },
@@ -12098,17 +12118,17 @@
       },
       {
         "word": "museum",
-        "definition": "a building in which aredisplayed objects of interest inone or more of the arts orsciences"
+        "definition": "a building in which are displayed objects of interest in one or more of the arts or sciences"
       },
       {
         "word": "mush",
-        "definition": "to travel across snowwith a sled drawn by dogs"
+        "definition": "to travel across snow with a sled drawn by dogs"
       }
     ]
   },
   {
     "level": "everyday",
-    "firstLetter": "5",
+    "firstLetter": "S",
     "words": [
       {
         "word": "skinny",
@@ -12119,24 +12139,26 @@
         "definition": "to fail to attend"
       },
       {
-        "word": "FIRST LETTER = 5"
+        "word": "skipper",
+        "definition": "the master of ship and especially of a fishing, trading, or pleasure boat"
       }
     ]
   },
   {
     "level": "everyday",
-    "firstLetter": "|",
+    "firstLetter": "I",
     "words": [
       {
         "word": "internal",
-        "definition": "having to do with theinside of the body"
+        "definition": "having to do with the inside of the body"
       },
       {
-        "word": "international!",
-        "definition": "of, relating to, oraffecting two or more nations"
+        "word": "international",
+        "definition": "of, relating to, or affecting two or more nations"
       },
       {
-        "word": "FIRST LETTER = |"
+        "word": "internet",
+        "definition": "a communications system that connects groups of computers and databases all over the world"
       }
     ]
   },
@@ -12146,11 +12168,11 @@
     "words": [
       {
         "word": "torso",
-        "definition": "the human bodyexcept for the head, arms,and legs"
+        "definition": "the human body except for the head, arms, and legs"
       },
       {
         "word": "tortilla",
-        "definition": "a round flat breadmade of corn or wheat flourand usually rolled with a fillingand eaten hot"
+        "definition": "a round flat breadmade of corn or wheat flour and usually rolled with a filling and eaten hot"
       },
       {
         "word": "tortoise",
@@ -12168,11 +12190,11 @@
       },
       {
         "word": "mustang",
-        "definition": "a small hardy horse of western North America that Is half wild"
+        "definition": "a small hardy horse of western North America that is half wild"
       },
       {
         "word": "mustard",
-        "definition": "a yellow powder that is prepared from the seeds of a plant related to the turnips,has a sharp taste, and is used in medicine and as a seasoning for foods"
+        "definition": "a yellow powder that is prepared from the seeds of a plant related to the turnips, has a sharp taste, and is used in medicine and as a seasoning for foods"
       }
     ]
   },
@@ -12182,14 +12204,15 @@
     "words": [
       {
         "word": "baggage",
-        "definition": "the trunks, suitcases,and personal belongings of travelers"
+        "definition": "the trunks, suitcases, and personal belongings of travelers"
       },
       {
         "word": "baggy",
-        "definition": "hanging loosely orpuffed out like a bag"
+        "definition": "hanging loosely or puffed out like a bag"
       },
       {
-        "definition": "a musical instrumentplayed especially in Scotlandthat consists of a tube, a bagfor air, and pipes from whichthe sound comes (bagpipe)"
+        "word": "bagpipe",
+        "definition": "a musical instrument played especially in Scotland that consists of a tube, a bag for air, and pipes from which the sound comes"
       }
     ]
   },
@@ -12199,11 +12222,11 @@
     "words": [
       {
         "word": "honeymoon",
-        "definition": "a holiday taken by arecently married couple"
+        "definition": "a holiday taken by are cently married couple"
       },
       {
         "word": "honeysuckle",
-        "definition": "a climbing vine or abush with fragrant white,yellow, or red flowers"
+        "definition": "a climbing vine or a bush with fragrant white, yellow, or red flowers"
       },
       {
         "word": "honk",
@@ -12217,15 +12240,15 @@
     "words": [
       {
         "word": "dim",
-        "definition": "not bright ordistinct; faint"
+        "definition": "not bright or distinct; faint"
       },
       {
         "word": "dime",
-        "definition": "a United States coinworth ten cents"
+        "definition": "a United States coin worth ten cents"
       },
       {
         "word": "dimension",
-        "definition": "the length, width, orheight of something"
+        "definition": "the length, width, or height of something"
       }
     ]
   },
@@ -12239,7 +12262,7 @@
       },
       {
         "word": "armada",
-        "definition": "a large fleet of- warships"
+        "definition": "a large fleet of warships"
       },
       {
         "word": "armadillo",
@@ -12257,7 +12280,7 @@
       },
       {
         "word": "Jevel",
-        "definition": "a device used to find ahorizontal line or surface"
+        "definition": "a device used to find a horizontal line or surface"
       },
       {
         "word": "lever",
@@ -12289,14 +12312,15 @@
     "words": [
       {
         "word": "granola",
-        "definition": "a mixture of oats andother ingredients that Is eatenespecially for breakfast or as asnack"
+        "definition": "a mixture of oats and other ingredients that is eaten especially for breakfast or as a snack"
       },
       {
         "word": "grant",
         "definition": "gift"
       },
       {
-        "definition": "a juicy berry that has asmooth green or whitish todeep red, purple, or black skinand grows in clusters on awoody vine (grape)"
+        "word": "grape",
+        "definition": "a juicy berry that has a smooth green or whitish to deep red, purple, or black skin and grows in clusters on a woody vine"
       }
     ]
   },
@@ -12346,7 +12370,7 @@
       },
       {
         "word": "neighbor",
-        "definition": "a person living or athing located near another"
+        "definition": "a person living or a thing located near another"
       },
       {
         "word": "neighborhood",
@@ -12360,13 +12384,14 @@
     "words": [
       {
         "word": "wince",
-        "definition": "to draw back as frompain"
+        "definition": "to draw back as from pain"
       },
       {
         "word": "winch",
-        "definition": "a machine that has aroller on which rope is woundfor pulling or lifting"
+        "definition": "a machine that has a roller on which rope is wound for pulling or lifting"
       },
       {
+        "word": "wind",
         "definition": "a movement of the air"
       }
     ]
@@ -12377,7 +12402,7 @@
     "words": [
       {
         "word": "wilt",
-        "definition": "to lose freshness andbecome limp"
+        "definition": "to lose freshness and become limp"
       },
       {
         "word": "wily",
@@ -12385,7 +12410,7 @@
       },
       {
         "word": "win",
-        "definition": "to achieve the victoryin a contest"
+        "definition": "to achieve the victory in a contest"
       }
     ]
   },
@@ -12394,7 +12419,8 @@
     "firstLetter": "R",
     "words": [
       {
-        "word": "FIRST LETTER = R"
+        "word": "reign",
+        "definition": "the time during which a monarch rules"
       },
       {
         "word": "reimburse",
@@ -12402,7 +12428,7 @@
       },
       {
         "word": "rein",
-        "definition": "a line or strap- attached at either end of thebit of a bridle to control ananimal"
+        "definition": "a line or strap attached at either end of the bit of a bridle to control ananimal"
       }
     ]
   },
@@ -12416,11 +12442,11 @@
       },
       {
         "word": "cellar",
-        "definition": "a room or set of roomsbelow the surface of theground"
+        "definition": "a room or set of rooms below the surface of the ground"
       },
       {
         "word": "cello",
-        "definition": "a large stringedinstrument of the violin familythat plays the bass part"
+        "definition": "a large stringed instrument of the violin family that plays the bass part"
       }
     ]
   },
@@ -12430,14 +12456,15 @@
     "words": [
       {
         "word": "pork",
-        "definition": "the fresh or saltedflesh of a pig"
+        "definition": "the fresh or salted flesh of a pig"
       },
       {
-        "word": "oorous",
-        "definition": "capable of absorbingliquids"
+        "word": "porous",
+        "definition": "capable of absorbing liquids"
       },
       {
-        "word": "FIRST LETTER = P"
+        "word": "porpoise",
+        "definition": "a sea animal somewhat like a small whale with a blunt rounded snout"
       }
     ]
   },
@@ -12464,15 +12491,16 @@
     "firstLetter": "C",
     "words": [
       {
-        "word": "FIRST LETTER = C"
+        "word": "collaborate",
+        "definition": "to work with others"
       },
       {
         "word": "collage",
-        "definition": "a work of art made bygluing pieces of differentmaterials to a flat surface"
+        "definition": "a work of art made by gluing pieces of different materials to a flat surface"
       },
       {
         "word": "collapse",
-        "definition": "to break downcompletely"
+        "definition": "to break down completely"
       }
     ]
   },
@@ -12482,7 +12510,7 @@
     "words": [
       {
         "word": "boa",
-        "definition": "a large snake that coilsaround and crushes Its prey"
+        "definition": "a large snake that coils around and crushes its prey"
       },
       {
         "word": "boar",
@@ -12490,7 +12518,7 @@
       },
       {
         "word": "board",
-        "definition": "a sawed piece of lumber that is much broaderand longer than it is thick"
+        "definition": "a sawed piece of lumber that is much broader and longer than it is thick"
       }
     ]
   },
@@ -12500,14 +12528,15 @@
     "words": [
       {
         "word": "mitt",
-        "definition": "a baseball catcher's orTirst baseman's glove"
+        "definition": "a baseball catcher's or first baseman's glove"
       },
       {
-        "word": "Mix",
-        "definition": "a covering for thehand and wrist having aseparate division for the= thumb only= Word 3: to become one mass= through blending"
+        "word": "mitten",
+        "definition": "a covering for the hand and wrist having a separate division for the thumb only"
       },
       {
-        "word": "FIRST LETTER = M"
+        "word": "mix",
+        "definition": "to become one mass through blending"
       }
     ]
   },
@@ -12517,11 +12546,11 @@
     "words": [
       {
         "word": "ash",
-        "definition": "the solid matter leftwhen something Is completelyburned"
+        "definition": "the solid matter left when something is completely burned"
       },
       {
         "word": "ashamed",
-        "definition": "feeling shame, guilt,or disgrace"
+        "definition": "feeling shame, guilt, or disgrace"
       },
       {
         "word": "ashen",
@@ -12571,15 +12600,15 @@
     "words": [
       {
         "word": "drawbridge",
-        "definition": "a bridge made to bedrawn up, down, or aside topermit or prevent passage"
+        "definition": "a bridge made to be drawn up, down, or aside to permit or prevent passage"
       },
       {
         "word": "drawer",
-        "definition": "a sliding boxlikecompartment"
+        "definition": "a sliding boxlike compartment"
       },
       {
         "word": "drawing",
-        "definition": "the act or art of making a figure, plan, orsketch by means of lines"
+        "definition": "the act or art of making a figure, plan, or sketch by means of lines"
       }
     ]
   },
@@ -12589,11 +12618,11 @@
     "words": [
       {
         "word": "freak",
-        "definition": "a strange, abnormal,or unusual person, thing, of event"
+        "definition": "a strange, abnormal, or unusual person, thing, or event"
       },
       {
         "word": "freckle",
-        "definition": "a small brownish spoton the skin"
+        "definition": "a small brownish spot on the skin"
       },
       {
         "word": "free",
@@ -12610,11 +12639,12 @@
         "definition": "the attraction of bodies by gravitation toward the center of the earth"
       },
       {
-        "word": "Word 3: lacking cheer or brightness| (gray)",
-        "definition": "a sauce made from the juice of cooked meat| (gravy)"
+        "word": "gravy",
+        "definition": "a sauce made from the juice of cooked meat"
       },
       {
-        "definition": "lacking cheer or brightness| (gray)"
+        "word": "gray",
+        "definition": "lacking cheer or brightness"
       }
     ]
   },
@@ -12642,14 +12672,15 @@
     "words": [
       {
         "word": "melody",
-        "definition": "a series of musicalf notes or tones arranged in adefinite pattern of pitch andrhythm"
+        "definition": "a series of musical notes or tones arranged in a definite pattern of pitch and rhythm"
       },
       {
-        "word": "Word 3: to change from a solidtoa liquid usually through theaction of heat (me/t)",
+        "word": "melon",
         "definition": "a fruit having juicyand usually sweet flesh andgrowing on a vine related tothe gourds (melon)"
       },
       {
-        "definition": "to change from a solidtoa liquid usually through theaction of heat (me/t)"
+        "word": "melt",
+        "definition": "to change from a solid to a liquid usually through the action of heat"
       }
     ]
   },
@@ -12659,15 +12690,15 @@
     "words": [
       {
         "word": "couch",
-        "definition": "a piece of furnituresuch as a bed or sofa that onecan sit or lie on"
+        "definition": "a piece of furniture such as a bed or sofa that one can sit or lie on"
       },
       {
         "word": "cougar",
-        "definition": "a large yellowishbrown North American wildanimal related to the domesticcat"
+        "definition": "a large yellowish brown North American wild animal related to the domestic cat"
       },
       {
         "word": "cough",
-        "definition": "to force air from thelungs with a sharp short noise"
+        "definition": "to force air from the lungs with a sharp short noise"
       }
     ]
   },
@@ -12677,11 +12708,11 @@
     "words": [
       {
         "word": "slice",
-        "definition": "a thin flat piece cuttrom something"
+        "definition": "a thin flat piece cut from something"
       },
       {
         "word": "slick",
-        "definition": "to make sleek orsmooth"
+        "definition": "to make sleek or smooth"
       },
       {
         "word": "slicker",
@@ -12695,15 +12726,15 @@
     "words": [
       {
         "word": "mat",
-        "definition": "a piece of material infront of a door to wipe theshoes on"
+        "definition": "a piece of material in front of a door to wipe the shoes on"
       },
       {
         "word": "matador",
-        "definition": "a bullfighter whoplays the chief human part in abullfight"
+        "definition": "a bullfighter who plays the chief human part in a bullfight"
       },
       {
         "word": "match",
-        "definition": "a thing that Is exactly| like another thing"
+        "definition": "a thing that is exactly like another thing"
       }
     ]
   },
@@ -12713,7 +12744,7 @@
     "words": [
       {
         "word": "birthday",
-        "definition": "the day on which a person Is born"
+        "definition": "the day on which a person is born"
       },
       {
         "word": "birthmark",
@@ -12731,15 +12762,15 @@
     "words": [
       {
         "word": "bandage",
-        "definition": "a strip of materialused especially to dress andbind up wounds"
+        "definition": "a strip of material used especially to dress and bind up wounds"
       },
       {
         "word": "bandanna",
-        "definition": "a large handkerchiefusually with a colorful designprinted on It"
+        "definition": "a large handkerchief usually with a colorful design printed on it"
       },
       {
         "word": "bandit",
-        "definition": "a lawless person; onewho lives outside the law"
+        "definition": "a lawless person; one who lives outside the law"
       }
     ]
   },
@@ -12748,12 +12779,12 @@
     "firstLetter": "P",
     "words": [
       {
-        "word": "ooncho",
-        "definition": "a Spanish-Americancloak like a blanket with a slitin the middle for the head"
+        "word": "poncho",
+        "definition": "a Spanish-American cloak like a blanket with a slit in the middle for the head"
       },
       {
         "word": "pond",
-        "definition": "a body of waterusually smaller than a lake"
+        "definition": "a body of water usually smaller than a lake"
       },
       {
         "word": "ponder",
@@ -12781,7 +12812,7 @@
   },
   {
     "level": "everyday",
-    "firstLetter": "5",
+    "firstLetter": "S",
     "words": [
       {
         "word": "saloon",
@@ -12789,10 +12820,11 @@
       },
       {
         "word": "salsa",
-        "definition": "popular music of LatinAmerican origin withcharacteristics of jazzand rock"
+        "definition": "popular music of Latin American origin with characteristics of jazz and rock"
       },
       {
-        "definition": "a colorless or whitesubstance that consists of sodium and chlorine and is used‘in seasoning foods (salt)"
+        "word": "salt",
+        "definition": "a colorless or white substance that consists of sodium and chlorine and is used in seasoning foods"
       }
     ]
   },
@@ -12806,11 +12838,11 @@
       },
       {
         "word": "sweat",
-        "definition": "to give off salty moisture through the poresof the skin"
+        "definition": "to give off salty moisture through the pores of the skin"
       },
       {
         "word": "sweater",
-        "definition": "4a knitted or crochetedjacket or pullover"
+        "definition": "a knitted or crocheted jacket or pullover"
       }
     ]
   },
@@ -12827,7 +12859,8 @@
         "definition": "multitude; swarm"
       },
       {
-        "definition": "the line where the earth or sea seems to meet the sky (horizon)"
+        "word": "horizon",
+        "definition": "the line where the earth or sea seems to meet the sky"
       }
     ]
   },
@@ -12837,15 +12870,15 @@
     "words": [
       {
         "word": "bile",
-        "definition": "a thick bitter yellow orgreenish fluid supplied by theliver to aid in digestion"
+        "definition": "a thick bitter yellow or greenish fluid supplied by the liver to aid in digestion"
       },
       {
         "word": "bilingual",
-        "definition": "of, expressed in, orusing two languages"
+        "definition": "of, expressed in, or using two languages"
       },
       {
         "word": "bill",
-        "definition": "a piece of papermoney"
+        "definition": "a piece of paper money"
       }
     ]
   },
@@ -12891,11 +12924,11 @@
     "words": [
       {
         "word": "yak",
-        "definition": "a wild or domestic oxof the uplands of Asia that hasvery long hair"
+        "definition": "a wild or domestic ox of the uplands of Asia that has very long hair"
       },
       {
         "word": "yam",
-        "definition": "a sweet potato with amoist and usually orange flesh"
+        "definition": "a sweet potato with a moist and usually orange flesh"
       },
       {
         "word": "yank",
@@ -12909,7 +12942,7 @@
     "words": [
       {
         "word": "vise",
-        "definition": "a device with two jawsthat works by a screw or leverfor holding or clamping work"
+        "definition": "a device with two jaws that works by a screw or lever for holding or clamping work"
       },
       {
         "word": "visibility",
@@ -12941,14 +12974,15 @@
   },
   {
     "level": "everyday",
-    "firstLetter": "M Word 1: a long low sound showing pain or grief",
+    "firstLetter": "m",
     "words": [
       {
-        "word": "FIRST LETTER = M Word 1: a long low sound showing pain or grief"
+        "word": "moan",
+        "definition": "a long low sound showing pain or grief"
       },
       {
         "word": "moat",
-        "definition": "a deep wide ditch around the walls of a castle orfort that is usually filled with water"
+        "definition": "a deep wide ditch around the walls of a castle or fort that is usually filled with water"
       },
       {
         "word": "mob",
@@ -12980,14 +13014,15 @@
     "words": [
       {
         "word": "tar",
-        "definition": "a thick dark sticky liquid made from wood, coal,or peat"
+        "definition": "a thick dark sticky liquid made from wood, coal, or peat"
       },
       {
         "word": "tarantula",
-        "definition": "any of a group ot large hairy spiders of warm regions of North and South America whose bite is sharp but not serious except for come South American species"
+        "definition": "any of a group ot large hairy spiders of warm regions of North and South America whose bite is sharp but not serious except for some South American species"
       },
       {
-        "definition": "not on time (tardy)"
+        "word": "tardy",
+        "definition": "not on time"
       }
     ]
   },
@@ -12997,14 +13032,15 @@
     "words": [
       {
         "word": "playpen",
-        "definition": "a small enclosure inwhich a baby is placed to play"
+        "definition": "a small enclosure in which a baby is placed to play"
       },
       {
         "word": "plaything",
         "definition": "toy"
       },
       {
-        "word": "FIRST LETTER = P"
+        "word": "playwright",
+        "definition": "a writer of plays"
       }
     ]
   },
@@ -13014,15 +13050,15 @@
     "words": [
       {
         "word": "jeans",
-        "definition": "pants made of a heavycotton cloth"
+        "definition": "pants made of a heavy cotton cloth"
       },
       {
         "word": "jeep",
-        "definition": "a small motor vehicle_ used by the United States Armyduring World War II"
+        "definition": "a small motor vehicle used by the United States Army during World War II"
       },
       {
         "word": "jeer",
-        "definition": "a scornful remark orsound"
+        "definition": "a scornful remark or sound"
       }
     ]
   },
@@ -13032,11 +13068,11 @@
     "words": [
       {
         "word": "litter",
-        "definition": "the young born to ananimal at a single time"
+        "definition": "the young born to an animal at a single time"
       },
       {
-        "word": "Jitterbug",
-        "definition": "one that litters apublic area"
+        "word": "litterbug",
+        "definition": "one that litters a public area"
       },
       {
         "word": "little",
@@ -13050,7 +13086,7 @@
     "words": [
       {
         "word": "discus",
-        "definition": "an object that Is shaped like a disk and hurled for distance in a track-and-field event"
+        "definition": "an object that is shaped like a disk and hurled for distance in a track-and-field event"
       },
       {
         "word": "discuss",
@@ -13058,7 +13094,7 @@
       },
       {
         "word": "discussion",
-        "definition": "conversation for thepurpose of understanding aquestion or subject"
+        "definition": "conversation for the purpose of understanding a question or subject"
       }
     ]
   },
@@ -13068,21 +13104,21 @@
     "words": [
       {
         "word": "hum",
-        "definition": "to utter a sound like along \\m\\"
+        "definition": "to utter a sound like a long \\m\\"
       },
       {
         "word": "human",
-        "definition": "of, relating to, being,or characteristic of people asdistinct from lower animals"
+        "definition": "of, relating to, being, or characteristic of people as distinct from lower animals"
       },
       {
         "word": "humane",
-        "definition": "having sympathy andconsideration for others"
+        "definition": "having sympathy and consideration for others"
       }
     ]
   },
   {
     "level": "everyday",
-    "firstLetter": "|",
+    "firstLetter": "I",
     "words": [
       {
         "word": "illegal",
@@ -13108,7 +13144,7 @@
       },
       {
         "word": "ladle",
-        "definition": "a spoon with a long handle and a deep bowl that Is used for dipping"
+        "definition": "a spoon with a long handle and a deep bowl that is used for dipping"
       },
       {
         "word": "lady",
@@ -13122,15 +13158,15 @@
     "words": [
       {
         "word": "mayonnaise",
-        "definition": "a creamy dressingusually made of egg yolk, oil,and vinegar or lemon juice"
+        "definition": "a creamy dressing usually made of egg yolk, oil, and vinegar or lemon juice"
       },
       {
         "word": "mayor",
-        "definition": "an official elected toserve as head of a city orborough"
+        "definition": "an official elected to serve as head of a city or borough"
       },
       {
         "word": "maze",
-        "definition": "a confusingarrangement of pathsOr passages"
+        "definition": "a confusing arrangement of paths or passages"
       }
     ]
   },
@@ -13162,10 +13198,11 @@
       },
       {
         "word": "mildew",
-        "definition": "a thin whitish growthof fungus on decaying materialor on living plants"
+        "definition": "a thin whitish growth of fungus on decaying material or on living plants"
       },
       {
-        "word": "FIRST LETTER = M"
+        "word": "mile",
+        "definition": "a measure of distance equal to 5280 feet or 1609 meters"
       }
     ]
   },
@@ -13175,11 +13212,11 @@
     "words": [
       {
         "word": "mislead",
-        "definition": "to lead in a wrongdirection or into error"
+        "definition": "to lead in a wrong direction or into error"
       },
       {
         "word": "misplace",
-        "definition": "to put in a wrongplace"
+        "definition": "to put in a wrong place"
       },
       {
         "word": "misprint",
@@ -13197,7 +13234,7 @@
       },
       {
         "word": "dash",
-        "definition": "to Move with sudden speed"
+        "definition": "to move with sudden speed"
       },
       {
         "word": "dashboard",
@@ -13211,11 +13248,11 @@
     "words": [
       {
         "word": "flounder",
-        "definition": "to struggle to move of get footing"
+        "definition": "to struggle to move or get footing"
       },
       {
         "word": "flour",
-        "definition": "the finely ground mealof a cereal grain and especiallyof wheat"
+        "definition": "the finely ground meal of a cereal grain and especially of wheat"
       },
       {
         "word": "flourish",
@@ -13233,7 +13270,7 @@
       },
       {
         "word": "jaywalk",
-        "definition": "to cross a street ina place or in a way that Is against traffic regulations"
+        "definition": "to cross a street in a place or in a way that is against traffic regulations"
       },
       {
         "word": "jazz",
@@ -13254,7 +13291,8 @@
         "definition": "the juicy edible usually red fruit of a low plant with white flowers and long slender runners"
       },
       {
-        "definition": "a domestic animal that is wandering at large because it is lost or has been aban-doned (stray)"
+        "word": "stray",
+        "definition": "a domestic animal that is wandering at large because it is lost or has been abandoned"
       }
     ]
   },
@@ -13264,15 +13302,15 @@
     "words": [
       {
         "word": "appendix",
-        "definition": "a small tubelike partgrowing out from the intestine"
+        "definition": "a small tubelike part growing out from the intestine"
       },
       {
         "word": "appetite",
-        "definition": "a natural desireespecially for food"
+        "definition": "a natural desire especially for food"
       },
       {
         "word": "appetizer",
-        "definition": "a food or drink usuallyserved before a meal to makeone hungrier"
+        "definition": "a food or drink usually served before a meal to make one hungrier"
       }
     ]
   },
@@ -13282,14 +13320,15 @@
     "words": [
       {
         "word": "popcorn",
-        "definition": "corn whose kernelsburst open when exposed tohigh heat to form a white oryellowish mass"
+        "definition": "corn whose kernels burst open when exposed to high heat to form a white or yellowish mass"
       },
       {
         "word": "pope",
-        "definition": "the head of theRoman Catholic Church"
+        "definition": "the head of the Roman Catholic Church"
       },
       {
-        "definition": "a tree that has roughbark, catkins for flowers, and awhite cottonlike substancearound its seeds (poplar)"
+        "word": "poplar",
+        "definition": "a tree that has rough bark, catkins for flowers, and a white cottonlike substance around its seeds"
       }
     ]
   },
@@ -13299,15 +13338,15 @@
     "words": [
       {
         "word": "sign",
-        "definition": "a public notice thatadvertises something or givesinformation"
+        "definition": "a public notice that advertises something or gives information"
       },
       {
         "word": "signal",
-        "definition": "a sound, a movementof part of the body, or anobject that gives warning or acommand"
+        "definition": "a sound, a movement of part of the body, or an object that gives warning or a command"
       },
       {
         "word": "signature",
-        "definition": "the name of a personwritten by that person"
+        "definition": "the name of a person written by that person"
       }
     ]
   },
@@ -13317,7 +13356,7 @@
     "words": [
       {
         "word": "ham",
-        "definition": "a cut of meatconsisting of a thigh usuallyof pork"
+        "definition": "a cut of meat consisting of a thigh usually of pork"
       },
       {
         "word": "hamburger",
@@ -13335,14 +13374,15 @@
     "words": [
       {
         "word": "billboard",
-        "definition": "a flat surface on which| outdoor advertisements aredisplayed"
+        "definition": "a flat surface on which outdoor advertisements are displayed"
       },
       {
-        "word": "Word 3: a game played by| driving solid balls with a cue into each other or into pockets on a large rectangular table| (billiards)*Pedra se om",
-        "definition": "a folding pocketbook especially for paper money| (billfold)"
+        "word": "billfold",
+        "definition": "a folding pocketbook especially for paper money"
       },
       {
-        "definition": "a game played by| driving solid balls with a cue into each other or into pockets on a large rectangular table| (billiards)*Pedra se om"
+        "word": "billiards",
+        "definition": "a game played by driving solid balls with a cue into each other or into pockets on a large rectangular table"
       }
     ]
   },
@@ -13352,14 +13392,15 @@
     "words": [
       {
         "word": "cut",
-        "definition": "to penetrate or dividewith or as if with an edgedtool"
+        "definition": "to penetrate or divide with or as if with an edged tool"
       },
       {
         "word": "cute",
-        "definition": "attractive especially inlooks or actions"
+        "definition": "attractive especially in looks or actions"
       },
       {
-        "definition": "a dead or horny layer_ Of skin especially around a= fingernail| (cuticle)"
+        "word": "cuticle",
+        "definition": "a dead or horny layer of skin especially around a fingernail"
       }
     ]
   },
@@ -13373,7 +13414,7 @@
       },
       {
         "word": "wish",
-        "definition": "a desire for happinessor good fortune"
+        "definition": "a desire for happiness or good fortune"
       },
       {
         "word": "wishbone",
@@ -13387,7 +13428,7 @@
     "words": [
       {
         "word": "chocolate",
-        "definition": "a food prepared fromground roasted cacao beans"
+        "definition": "a food prepared from ground roasted cacao beans"
       },
       {
         "word": "choice",
@@ -13409,11 +13450,11 @@
       },
       {
         "word": "chapel",
-        "definition": "a building or a roomor place for prayer or specialreligious services"
+        "definition": "a building or a room or place for prayer or special religious services"
       },
       {
         "word": "chaperon or chaperone",
-        "definition": "an older person whogoes with and Is responsiblefor a young woman or a groupof young people"
+        "definition": "an older person who goes with and is responsible for a young woman or a group of young people"
       }
     ]
   },
@@ -13423,15 +13464,15 @@
     "words": [
       {
         "word": "handiwork",
-        "definition": "work done by thehands"
+        "definition": "work done by the hands"
       },
       {
         "word": "handkerchief",
-        "definition": "a small usually squarepiece of cloth used for wipingthe face, nose, or eyes"
+        "definition": "a small usually square piece of cloth used for wiping the face, nose, or eyes"
       },
       {
         "word": "handle",
-        "definition": "the part by whichsomething, such as a dish ortool, is picked up or held"
+        "definition": "the part by which something, such as a dish or tool, is picked up or held"
       }
     ]
   },
@@ -13459,15 +13500,15 @@
     "words": [
       {
         "word": "lap",
-        "definition": "one time around aracetrack"
+        "definition": "one time around a racetrack"
       },
       {
         "word": "lapdog",
-        "definition": "a dog small enough tobe held in the lap"
+        "definition": "a dog small enough to be held in the lap"
       },
       {
         "word": "lapel",
-        "definition": "the part of the frontof a collar that is turned back"
+        "definition": "the part of the front of a collar that is turned back"
       }
     ]
   },
@@ -13477,15 +13518,15 @@
     "words": [
       {
         "word": "walnut",
-        "definition": "the edible nut thatcomes from trees related tothe hickories"
+        "definition": "the edible nut that comes from trees related to the hickories"
       },
       {
-        "word": "Word 3: a dance in whichcouples glide to music havingthree beats to a measure",
-        "definition": "a large animal of northern seas related to theseals and hunted for Its hide,for the ivory tusks of themales, and for oil (walrus)"
+        "word": "walrus",
+        "definition": "a large animal of northern seas related to theseals and hunted for Its hide,for the ivory tusks of themales, and for oil"
       },
       {
         "word": "waltz",
-        "definition": "a dance in whichcouples glide to music havingthree beats to a measure"
+        "definition": "a dance in which couples glide to music having three beats to a measure"
       }
     ]
   },
@@ -13513,15 +13554,15 @@
     "words": [
       {
         "word": "preview",
-        "definition": "a showing of something, such as a movie,before regular showings"
+        "definition": "a showing of something, such as a movie, before regular showings"
       },
       {
         "word": "previous",
-        "definition": "going before in timeor order"
+        "definition": "going before in time or order"
       },
       {
         "word": "prey",
-        "definition": "an animal hunted orkilled by another animal torfood"
+        "definition": "an animal hunted or killed by another animal for food"
       }
     ]
   },
@@ -13549,14 +13590,15 @@
     "words": [
       {
         "word": "almanac",
-        "definition": "a book containing acalendar of days, weeks, andmonths and usually facts aboutweather and astronomy andinformation of general interest"
+        "definition": "a book containing a calendar of days, weeks, and months and usually facts about weather and astronomy and information of general interest"
       },
       {
         "word": "almighty",
-        "definition": "having absolute powel!over all"
+        "definition": "having absolute power over all"
       },
       {
-        "definition": "a nut that is the ediblekernel of a small tree related tothe peach (a/mond)"
+        "word": "almond",
+        "definition": "a nut that is the edible kernel of a small tree related to the peach"
       }
     ]
   },
@@ -13583,16 +13625,16 @@
     "firstLetter": "E",
     "words": [
       {
-        "word": "e/ement",
+        "word": "element",
         "definition": "one of the parts of which something is made up"
       },
       {
-        "word": "e/ementary",
-        "definition": "of or relating to thebeginnings or first principles of a subject"
+        "word": "elementary",
+        "definition": "of or relating to the beginnings or first principles of a subject"
       },
       {
-        "word": "e/ephant",
-        "definition": "a huge thicksetmammal with the nose drawnOut Into a long trunk and twolarge curved tusks"
+        "word": "elephant",
+        "definition": "a huge thickset mammal with the nose drawn out into a long trunk and two large curved tusks"
       }
     ]
   },
@@ -13616,19 +13658,19 @@
   },
   {
     "level": "everyday",
-    "firstLetter": "5",
+    "firstLetter": "S",
     "words": [
       {
         "word": "sauce",
-        "definition": "a tasty liquid pouredover food"
+        "definition": "a tasty liquid poured over food"
       },
       {
         "word": "saucepan",
-        "definition": "a small deep cookingpan with a handle"
+        "definition": "a small deep cooking pan with a handle"
       },
       {
         "word": "saucer",
-        "definition": "a small shallow dishoften with a slightly lowercenter for holding a cup"
+        "definition": "a small shallow dish often with a slightly lower center for holding a cup"
       }
     ]
   },
@@ -13656,7 +13698,7 @@
     "words": [
       {
         "word": "collegiate",
-        "definition": "having to do with acollege"
+        "definition": "having to do with a college"
       },
       {
         "word": "collide",
@@ -13664,7 +13706,7 @@
       },
       {
         "word": "collie",
-        "definition": "a large usually long-coated dog of a Scottish breedused to herd sheep"
+        "definition": "a large usually long-coated dog of a Scottish breed used to herd sheep"
       }
     ]
   },
@@ -13674,15 +13716,15 @@
     "words": [
       {
         "word": "rodent",
-        "definition": "any of a group otmammals as squirrels, rats,mice, and beavers with sharpfront teeth used in gnawing"
+        "definition": "any of a group of mammals as squirrels, rats, mice, and beavers with sharp front teeth used in gnawing"
       },
       {
         "word": "rodeo",
-        "definition": "an exhibition that fea-tures cowboy skills"
+        "definition": "an exhibition that features cowboy skills"
       },
       {
         "word": "roe",
-        "definition": "the eggs of a fishespecially while still heldtogether in a membrane"
+        "definition": "the eggs of a fish especially while still held together in a membrane"
       }
     ]
   },
@@ -13692,15 +13734,15 @@
     "words": [
       {
         "word": "viable",
-        "definition": "capable of living orgrowing"
+        "definition": "capable of living or growing"
       },
       {
         "word": "viaduct",
-        "definition": "a bridge for carrying aroad or railroad over something"
+        "definition": "a bridge for carrying a road or railroad over something"
       },
       {
         "word": "vial",
-        "definition": "a small container asfor medicines that is usuallymade of glass or plastic"
+        "definition": "a small container as for medicines that is usually made of glass or plastic"
       }
     ]
   },
@@ -13718,7 +13760,7 @@
       },
       {
         "word": "butler",
-        "definition": "the chief male servantof a household"
+        "definition": "the chief male servant of a household"
       }
     ]
   },
@@ -13727,15 +13769,16 @@
     "firstLetter": "T",
     "words": [
       {
-        "word": "FIRST LETTER = T"
+        "word": "tomahawk",
+        "definition": "a light ax used as a weapon by North American Indians"
       },
       {
         "word": "tomato",
-        "definition": "a red or yellow juicyfruit that is used as a vegetable |or in salads"
+        "definition": "a red or yellow juicy fruit that is used as a vegetable or in salads"
       },
       {
         "word": "tomb",
-        "definition": "a house or burialchamber for dead people"
+        "definition": "a house or burial chamber for dead people"
       }
     ]
   },
@@ -13745,13 +13788,15 @@
     "words": [
       {
         "word": "tailor",
-        "definition": "a person whose| business is making or making| adjustments in men's or| women's clothes"
+        "definition": "a person whose business is making or making adjustments in men's or women's clothes"
       },
       {
-        "definition": "the pipe carrying off the exhaust gases from the| muffler of an engine in a car or| truck| (tailpipe)= Word 3: a dive by an airplane‘a Cun In a circle taipin)oo ae ea 2232 anBee"
+        "word": "tailpipe",
+        "definition": "the pipe carrying off the exhaust gases from the muffler of an engine in a car or truck"
       },
       {
-        "word": "FIRST LETTER = T"
+        "word": "tailspin",
+        "definition": "a dive by an airplane turning in a circle"
       }
     ]
   },
@@ -13760,16 +13805,16 @@
     "firstLetter": "C",
     "words": [
       {
-        "word": "Word 2: a naturally roundedstone larger than a pebble andsmaller than a boulder onceused in paving streets",
-        "definition": "a fruit pie with a thickupper crust and no bottomcrust that is baked in a deepdish (cobbler)"
+        "word": "cobbler",
+        "definition": "a fruit pie with a thick upper crust and no bottom crust that is baked in a deep dish"
       },
       {
         "word": "cobblestone",
-        "definition": "a naturally roundedstone larger than a pebble andsmaller than a boulder onceused in paving streets"
+        "definition": "a naturally rounded stone larger than a pebble and smaller than a boulder once used in paving streets"
       },
       {
         "word": "cobra",
-        "definition": "a very poisonous snakeof Asia and Africa"
+        "definition": "a very poisonous snake of Asia and Africa"
       }
     ]
   },
@@ -13783,7 +13828,7 @@
       },
       {
         "word": "vacation",
-        "definition": "a period spent away from home or business In travel or amusement"
+        "definition": "a period spent away from home or business in travel or amusement"
       },
       {
         "word": "vaccinate",
@@ -13801,11 +13846,11 @@
       },
       {
         "word": "errand",
-        "definition": "a short trip made totake care of some business"
+        "definition": "a short trip made to take care of some business"
       },
       {
         "word": "errant",
-        "definition": "straying from aoroper course"
+        "definition": "straying from a proper course"
       }
     ]
   },
@@ -13814,7 +13859,7 @@
     "firstLetter": "S",
     "words": [
       {
-        "word": "stoo/",
+        "word": "stool",
         "definition": "a seat without back or arms supported by three or four legs or by a central post"
       },
       {
@@ -13851,7 +13896,7 @@
     "words": [
       {
         "word": "anonymous",
-        "definition": "made or done bysomeone unknown"
+        "definition": "made or done by someone unknown"
       },
       {
         "word": "another",
@@ -13869,7 +13914,7 @@
     "words": [
       {
         "word": "apron",
-        "definition": "a piece of cloth wornon the front of the body tokeep the clothing from gettingdirty"
+        "definition": "a piece of cloth worn on the front of the body to keep the clothing from getting dirty"
       },
       {
         "word": "apt",
@@ -13887,11 +13932,11 @@
     "words": [
       {
         "word": "pendulum",
-        "definition": "a body that swingsfreely from a fixed point"
+        "definition": "a body that swings freely from a fixed point"
       },
       {
         "word": "peneplain",
-        "definition": "a large almost flatland surface shaped byerosion"
+        "definition": "a large almost flat land surface shaped by erosion"
       },
       {
         "word": "penetrate",
@@ -13913,7 +13958,7 @@
       },
       {
         "word": "ambiguous",
-        "definition": "capable of beingunderstood in more thanone way"
+        "definition": "capable of being understood in more than one way"
       }
     ]
   },
@@ -13923,14 +13968,15 @@
     "words": [
       {
         "word": "repertoire",
-        "definition": "a supply of skills ordevices possessed by a person"
+        "definition": "a supply of skills or devices possessed by a person"
       },
       {
         "word": "repertory",
-        "definition": "a company thatperforms different plays orpieces in the course of aseason"
+        "definition": "a company that performs different plays or pieces in the course of a season"
       },
       {
-        "word": "FIRST LETTER = R"
+        "word": "repetition",
+        "definition": "the act or an instance of repeating"
       }
     ]
   },
@@ -13939,16 +13985,16 @@
     "firstLetter": "M",
     "words": [
       {
-        "word": "Word 2: a mixture of beaten€gg white and sugar put onpies or cakes and browned",
-        "definition": "an imaginary circle onthe earth's surface passingthrough the north and southpoles (meridian)"
+        "word": "meridian",
+        "definition": "an imaginary circle on the earth's surface passing through the north and south poles"
       },
       {
         "word": "meringue",
-        "definition": "a mixture of beaten€gg white and sugar put onpies or cakes and browned"
+        "definition": "a mixture of beaten egg white and sugar put on pies or cakes and browned"
       },
       {
         "word": "merino",
-        "definition": "any of a breed of sheep that produce a Neavyfleece of fine white Wool"
+        "definition": "any of a breed of sheep that produce a heavy fleece of fine white wool"
       }
     ]
   },
@@ -13962,11 +14008,11 @@
       },
       {
         "word": "eggnog",
-        "definition": "a drink made of eggsbeaten with sugar, milk orcream, and often alcoholicliquor"
+        "definition": "a drink made of eggs beaten with sugar, milk or cream, and often alcoholic liquor"
       },
       {
         "word": "eggplant",
-        "definition": "a widely cultivatedherb that is related to thepotato and yields edible fruit"
+        "definition": "a widely cultivated herb that is related to the potato and yields edible fruit"
       }
     ]
   },
@@ -13994,7 +14040,7 @@
     "words": [
       {
         "word": "spaghetti",
-        "definition": "pasta made in theform of strings"
+        "definition": "pasta made in the form of strings"
       },
       {
         "word": "spam",
@@ -14002,7 +14048,7 @@
       },
       {
         "word": "span",
-        "definition": "to reach or extendacross"
+        "definition": "to reach or extend across"
       }
     ]
   },
@@ -14012,14 +14058,15 @@
     "words": [
       {
         "word": "tip",
-        "definition": "the usually pointe dend of something"
+        "definition": "the usually pointed end of something"
       },
       {
         "word": "tiptoe",
         "definition": "the position of being balanced on the balls of the feet and toes with the heels raised"
       },
       {
-        "word": "FIRST LETTER = T"
+        "word": "tiptop",
+        "definition": "excellent; first-rate"
       }
     ]
   },
@@ -14029,14 +14076,15 @@
     "words": [
       {
         "word": "judo",
-        "definition": "a Japanese form otf wrestling in which each person tries to throw or pin the opponent"
+        "definition": "a Japanese form of wrestling in which each person tries to throw or pin the opponent"
       },
       {
-        "word": "Word 3: to keep several things/ moving in the air at the same time (juggle)",
-        "definition": "a large deep usually earthenware or glass container with a narrow mouth and a handle (jug)"
+        "word": "jug",
+        "definition": "a large deep usually earthenware or glass container with a narrow mouth and a handle"
       },
       {
-        "definition": "to keep several things/ moving in the air at the same time (juggle)"
+        "word": "juggle",
+        "definition": "to keep several things moving in the air at the same time"
       }
     ]
   },
@@ -14046,15 +14094,15 @@
     "words": [
       {
         "word": "thigh",
-        "definition": "the part of a legbetween the knee and themain part of the boay"
+        "definition": "the part of a leg between the knee and the main part of the body"
       },
       {
         "word": "thimble",
-        "definition": "a cap or cover used insewing to protect the fingerthat pushes the needle"
+        "definition": "a cap or cover used in sewing to protect the finger that pushes the needle"
       },
       {
         "word": "thin",
-        "definition": "having little size fromone surface to its opposite; notthick"
+        "definition": "having little size from one surface to its opposite; not thick"
       }
     ]
   }
