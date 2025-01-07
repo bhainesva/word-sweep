@@ -45,12 +45,6 @@ input.correct {
   font-weight: bold;
 }
 
-.flex { 
-  display: flex;
-  align-items: center;
-  gap: 10px;
-}
-
 .small {
   font-size: 15px;
 }
@@ -79,4 +73,16 @@ input.correct {
 
 .difficulties button {
   flex: 1;
+}
+
+.modal {
+  position: fixed;
+  background: #242424;
+  left: 50%;
+  top: 50%;
+  min-height: 400px;
+  min-width: 400px;
+  transform: translate(-50%, -50%);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  padding: 16px;
 }
