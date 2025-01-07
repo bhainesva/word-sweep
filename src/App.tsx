@@ -108,11 +108,7 @@ function Questions(props: {easyMode: boolean}) {
       <ol>
         {selectedCard.words.map((word, i) => (
           <li key={word.word}>
-            <Word word={word} i={i} ref={el => {
-              // if (i === 0) {
-              //   el?.focus();
-              // }
-            }} 
+            <Word word={word} i={i} 
             value={inputs[i]}
             correct={inputs[i] === selectedCard.words[i].word && (allCorrect || easyMode)}
             onChange={value => {
