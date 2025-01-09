@@ -1,4 +1,4 @@
-import { useState, forwardRef } from "react";
+import { useState, forwardRef, useEffect, useRef } from "react";
 import classNames from "classnames";
 import cards from "../data/cards.json";
 import { FaGear } from "react-icons/fa6";
@@ -122,6 +122,7 @@ function Questions(props: { easyMode: boolean }) {
     pickCard(activeDifficulties)
   );
   const [inputs, setInputs] = useState(["", "", ""]);
+  const firstInputRef = useRef<HTMLInputElement | null>(null);
 
   const allCorrect = inputs.every(
     (input, i) => input === selectedCard.words[i].word
@@ -131,6 +132,10 @@ function Questions(props: { easyMode: boolean }) {
     setSelectedCard(pickCard(activeDifficulties));
     setInputs(["", "", ""]);
   };
+
+  useEffect(() => {
+    firstInputRef.current?.focus();
+  }, [selectedCard])
 
   const toggleDifficulty = (level: string) => {
     if (activeDifficulties.includes(level)) {
@@ -152,6 +157,7 @@ function Questions(props: { easyMode: boolean }) {
             <Word
               word={word}
               i={i}
+              ref={i === 0 ? firstInputRef : null}
               value={inputs[i]}
               correct={
                 inputs[i] === selectedCard.words[i].word &&
